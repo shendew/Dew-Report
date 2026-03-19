@@ -24,22 +24,13 @@
 ## ✨ Features
 
 - 📊 **Live COVID-19 Data** — Real-time stats fetched via REST API using the `http` package
-- 🌍 **Cross-Platform** — Runs on Android, iOS, Web, Linux, macOS, and Windows
+- 🌍 **Cross-Platform** — Runs on Android
 - 🎨 **Custom Typography** — Styled with **Jaro** and **Poppins** font families
 - 🖼️ **Asset Support** — Custom images and icons bundled within the app
 - 💡 **Material Design** — Clean, modern UI using Flutter's Material component library
 
 ---
 
-## 📱 Screenshots
-
-> *Add your app screenshots here*
-
-| Home | Statistics | Details |
-|:----:|:----------:|:-------:|
-| `screenshot_home.png` | `screenshot_stats.png` | `screenshot_detail.png` |
-
----
 
 ## 🚀 Getting Started
 
